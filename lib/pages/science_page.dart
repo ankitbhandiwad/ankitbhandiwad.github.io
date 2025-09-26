@@ -42,7 +42,7 @@ class SciencePage extends StatelessWidget {
                   Text('References', style: text.titleLarge),
                   const SizedBox(height: 8),
                   const SelectableText(
-                      'Add your local health department and national public health references here. Replace placeholders with citations your organization uses.'),
+                      'https://docs.google.com/document/d/1D7m0M8ULMf1IOJPdEr-TLZUY1yqfOeCpoZO5SlpmG6A/edit?usp=sharing'),
                 ],
               ),
             ),
