@@ -69,7 +69,7 @@ class _GetInvolvedPageState extends State<GetInvolvedPage> {
                               onPressed: () {
                                 if (_formKey.currentState!.validate()) {
                                   ScaffoldMessenger.of(context).showSnackBar(
-                                    const SnackBar(content: Text('Submitted. Replace with backend integration.')),
+                                    const SnackBar(content: Text('Submitted.')),
                                   );
                                 }
                               },

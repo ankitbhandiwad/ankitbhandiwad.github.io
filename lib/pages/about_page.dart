@@ -21,13 +21,10 @@ class AboutPage extends StatelessWidget {
                   Text('About the Organization', style: Theme.of(context).textTheme.displaySmall),
                   const SizedBox(height: 12),
                   const Text(
-                    'We are a non-profit coalition of public health professionals, water operators, and residents. '
+                    'We are a non-profit coalition of students and residents. '
                     'Mission: maintain evidence-based community water fluoridation policies and transparent public reporting.',
                   ),
                   const SizedBox(height: 16),
-                  const Text(
-                    'Activities include public education, utility support, data transparency projects, and local advocacy consistent with health guidance.',
-                  ),
                 ],
               ),
             ),
